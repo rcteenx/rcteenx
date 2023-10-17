@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rcteenx
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Ruby on rails
-- 📫 How to reach me :)
+- 🌱 I’m currently working on Next.js development
 
 <!---
 rcteenx/rcteenx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
